@@ -16,7 +16,6 @@ This is my first project! A Chat Utility skript for your Minecraft Server!
 
 # Screenshots:
 ![6](https://github.com/user-attachments/assets/9fd5713a-4042-4067-99d6-52a9ed4ac14e)
-![7](https://github.com/user-attachments/assets/4834cf5b-c7d7-45ec-8dd1-76c1fe0679d6)
 ![1](https://github.com/user-attachments/assets/7e6e521f-a316-4aca-af71-602a9705b95c)
 ![2](https://github.com/user-attachments/assets/8659a418-d7b2-44df-8346-2b8865ed8872)
 ![3](https://github.com/user-attachments/assets/207c59b7-8611-4c81-9d6f-56ce39b36ef3)
